@@ -27,3 +27,6 @@ The Part of The Decision Tree (as WebGraphViz does not wrap content):
 
 ![decis](https://user-images.githubusercontent.com/19201530/34082178-9b22c166-e37f-11e7-9a19-8247f104f774.png)
 
+
+For detailed Step by step explanation please visit my blog @ :https://mlhackerblog.wordpress.com/
+
